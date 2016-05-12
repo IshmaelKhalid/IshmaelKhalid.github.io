@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Why I decided to learn software development
-date:   2016-05-12 20:14:21 +0000
+date:   2016-05-12 16:14:21 -0400
 ---
 
 
 
-•	Because programming is Fun!
+•	Because programming is Fun!`<br>`
 •	Because I love money and there are like a bazillion jobs for developers!
 •	Because I have a million and one ideas, leading in different directions, and the only possible skill I believe that ties them all together is programming.
 •	Because my favorite outfit are my pajamas, and I really want the option to work at home one day
@@ -17,4 +17,4 @@ date:   2016-05-12 20:14:21 +0000
   
   I’ve been at it now for about a year and a half, and I’m still very optimistic! Everyday has been a learning experience, and new technologies pop up everyday, giving me more options, and exciting problems to figure out. The only downside is that when you are completely new to programming like I was, it can be really difficult to navigate your way through all the information available. Luckily, for me and many other diligent learners the Flatiron school has created a wonderful program that makes the process easier than it’s ever been. Yaaay!! You can check it out and learn with me by clicking the link below!
 
-Sign up here and get a $250 discount: learn.co/with/IshmaelKhalid
+[Sign up here and get a $250 discount: learn.co/with/IshmaelKhalid](http://learn.co/with/IshmaelKhalid)
