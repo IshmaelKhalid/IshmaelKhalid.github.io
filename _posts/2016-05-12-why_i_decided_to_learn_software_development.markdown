@@ -6,7 +6,7 @@ date:   2016-05-12 16:14:21 -0400
 
 
 
-•	Because programming is Fun!`<br>`
+•	Because programming is Fun!
 •	Because I love money and there are like a bazillion jobs for developers!
 •	Because I have a million and one ideas, leading in different directions, and the only possible skill I believe that ties them all together is programming.
 •	Because my favorite outfit are my pajamas, and I really want the option to work at home one day
