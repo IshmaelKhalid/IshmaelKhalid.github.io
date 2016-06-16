@@ -62,7 +62,10 @@ The numbers are the version number of your gem, which can and need to be changed
 Sign up here and get a $250 discount on Learn.co with the Flatiron School: learn.co/with/IshmaelKhalid
 
 Other Helpful Tutorials:
+
 1. http://railscasts.com/episodes/245-new-gem-with-bundler
+
 2. http://guides.rubygems.org/
+
 3. http://code.tutsplus.com/tutorials/gem-creation-with-bundler--net-25281
 
