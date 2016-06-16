@@ -1,0 +1,21 @@
+# Site settings
+title: Ruby A Day
+header-img: img/home-bg.png
+email: ishmaelkhalid@icloud.com
+copyright_name: IshmaelKhalid
+description: > # this means to ignore newlines until "baseurl:"
+  or week or so...
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Ishmael_Khalid
+github_username:  IshmaelKhalid
+learn_profile: IshmaelKhalid
+email_username: ishmaelkhalid@icloud.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
