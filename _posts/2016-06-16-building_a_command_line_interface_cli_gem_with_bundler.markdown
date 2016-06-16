@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building A Command Line Interface (CLI) Gem with Bundler"
-date:   2016-06-16 18:09:22 +0000
+date:   2016-06-16 14:09:23 -0400
 ---
 
 
@@ -39,12 +39,12 @@ spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
 This will allow your gem to be published, should you choose, to “[RubyGems.org](http://rubygems.org)”. The second and third are labeled:
 
-spec.bindir       = "exe"
+spec.bindir       = "exe"`br`
 spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
 
 That needs to be changed to:
 
-spec.bindir       = "bin"
+spec.bindir       = "bin"`br`
 spec.executables   = ["your-exe-file-in-bin-folder"]
 
 These changes will ensure a smooth execution when your file is installed and used. That’s all you need! Now to build your gem, go to your terminal, open up your gem folder then type:
