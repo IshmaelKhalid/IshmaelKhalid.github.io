@@ -41,7 +41,7 @@ This will allow your gem to be published, should you choose, to “[RubyGems.org
 
 spec.bindir       = "exe"
 
-spec.executables   = 'spec.files.grep(%r{^exe/}) { |f| File.basename(f) }'
+spec.executables   = spec.files.grep(%r{^exe/}) { l f l File.basename(f) }
 
 That needs to be changed to:
 
