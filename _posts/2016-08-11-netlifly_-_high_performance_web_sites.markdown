@@ -1,11 +1,17 @@
 ---
 layout: post
 title:  "Netlifly - High Performance Web Sites"
-date:   2016-08-11 21:24:35 +0000
+date:   2016-08-11 17:24:35 -0400
 ---
 
 
 Blog of my first time use. [Netlify](https://www.netlify.com/)
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGudrpa40fs" frameborder="0" allowfullscreen></iframe>
+```
+
 
 About Netlify
 
