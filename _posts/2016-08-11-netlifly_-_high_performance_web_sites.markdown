@@ -5,16 +5,16 @@ date:   2016-08-11 17:24:35 -0400
 ---
 
 
-Blog of my first time use. [Netlify](https://www.netlify.com/)
+Vlog of my first time use.
+
+
+Link: [Youtube](https://youtu.be/CUvRY_XSoFI)
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGudrpa40fs" frameborder="0" allowfullscreen></iframe>
+About  [Netlify](https://www.netlify.com/)
 
-
-About Netlify
-
-Netlify is based in Dog Patch, San Francisco, and runs on laptops, a multitude of programming languages and good times.
+ [Netlify](https://www.netlify.com/) is based in Dog Patch, San Francisco, and runs on laptops, a multitude of programming languages and good times.
 
 Our mission is simple. We want to take modern static websites and apps mainstream.
 
@@ -26,4 +26,4 @@ Making the slow, vulnerable and expensive legacy sites the best alternative.
 
 But no more. The browser is all grown-up, and CDNs have really seen the light of day.
 
-Netlify is a unified platform that automises all the work you need to do around your code to create high performant, easily maintainable site or web-app. Simply push to Netlify and watch your site fly.
+ [Netlify](https://www.netlify.com/) is a unified platform that automises all the work you need to do around your code to create high performant, easily maintainable site or web-app. Simply push to  [Netlify](https://www.netlify.com/) and watch your site fly.
